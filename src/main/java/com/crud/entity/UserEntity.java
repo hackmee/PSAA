@@ -5,7 +5,7 @@ import jakarta.persistence.*;
 @Entity
 public class UserEntity {
 	
-	private String name;
+	private String name1;
 	private String abc;
 	@Id
 	private Integer id;
